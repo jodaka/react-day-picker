@@ -1,6 +1,10 @@
 const pkg = require('react-day-picker/package.json');
 const pkgPath = '../packages/react-day-picker';
 
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'React DayPicker',
   tagline: 'Customizable date picker component for React',
@@ -14,41 +18,13 @@ const config = {
     disableSwitch: false,
     respectPrefersColorScheme: true,
     image: 'images/favicon.png',
-    navbar: {
-      title: 'DayPicker',
-      logo: {
-        alt: 'DayPicker Logo',
-        src: 'images/logo.png'
-      },
-      items: [
-        {
-          to: 'start',
-          label: 'Documentation',
-          activeBaseRegex: '(start|basics|guides)'
-        },
-        {
-          to: 'api/interfaces/daypickerbase',
-          label: 'Component Props'
-        },
-        {
-          to: 'api',
-          label: 'API Reference',
-          activeBaseRegex: '!(api/interfaces/daypickerprops)'
-        },
-        { to: 'changelog', label: `v${pkg.version}`, position: 'right' },
-        {
-          href: 'https://github.com/gpbl/react-day-picker',
-          label: 'GitHub',
-          position: 'right'
-        }
-      ]
-    },
+    navbar: require('./docusaurus.navbar.js'),
     gtag: {
       trackingID: 'UA-68185118-1'
     },
     prism: {
-      theme: require('prism-react-renderer/themes/vsLight'),
-      darkTheme: require('prism-react-renderer/themes/duotoneDark')
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme
     }
   },
   presets: [
@@ -56,7 +32,7 @@ const config = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./config/sidebar.ts'),
+          sidebarPath: require.resolve('./docusaurus.sidebars.js'),
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
           routeBasePath: '/'
@@ -72,17 +48,13 @@ const config = {
     [
       'docusaurus-plugin-typedoc',
       {
-        sidebar: {
-          sidebarFile: null
-        },
         // Typedoc settings
         entryPoints: [`${pkgPath}/src/index.ts`],
         tsconfig: `${pkgPath}/tsconfig.json`,
         allReflectionsHaveOwnDocument: true,
         readme: 'none',
-        disableSources: true,
         watch: process.env.TYPEDOC_WATCH,
-        out: 'api',
+        out: './api',
 
         // Markdown plugin settings
         hideBreadcrumbs: true,

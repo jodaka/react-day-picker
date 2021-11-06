@@ -1,8 +1,4 @@
----
-id: start
-title: Get Started
-hide_table_of_contents: true
----
+# Getting Started
 
 To start using DayPicker in your project add `react-day-picker` to your dependencies:
 

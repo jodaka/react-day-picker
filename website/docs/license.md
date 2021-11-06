@@ -3,7 +3,6 @@ id: license
 title: License
 hide_table_of_contents: true
 ---
-<!-- This file is copied via copy-docs.sh at build time. Do not edit it! -->
 
 The MIT License (MIT)
 
