@@ -18,7 +18,7 @@ The month where the caption is displayed.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L6)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:6](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L6)
 
 ___
 
@@ -30,7 +30,7 @@ Hide the next button.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:14](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L14)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:14](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L14)
 
 ___
 
@@ -42,7 +42,7 @@ Hide the previous button.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L12)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:12](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L12)
 
 ___
 
@@ -54,7 +54,7 @@ The next month.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L10)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L10)
 
 ___
 
@@ -80,7 +80,7 @@ Event handler when the next button is clicked.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:16](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L16)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:16](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L16)
 
 ___
 
@@ -106,7 +106,7 @@ Event handler when the previous button is clicked.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:18](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L18)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:18](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L18)
 
 ___
 
@@ -118,4 +118,4 @@ The previous month.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L8)
+[packages/react-day-picker/src/components/Navigation/NavigationProps.ts:8](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/NavigationProps.ts#L8)

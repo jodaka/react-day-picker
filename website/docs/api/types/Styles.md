@@ -12,4 +12,4 @@ The inline-styles of each element.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Styles.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Styles.ts#L6)
+[packages/react-day-picker/src/types/Styles.ts:6](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/Styles.ts#L6)

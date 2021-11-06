@@ -22,4 +22,4 @@ Render the dropdown to navigate between months.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/MonthsDropdown/MonthsDropdown.tsx:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/MonthsDropdown/MonthsDropdown.tsx#L12)
+[packages/react-day-picker/src/components/MonthsDropdown/MonthsDropdown.tsx:12](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/MonthsDropdown/MonthsDropdown.tsx#L12)

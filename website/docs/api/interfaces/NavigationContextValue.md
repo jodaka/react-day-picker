@@ -18,7 +18,7 @@ The months to display, according to `numberOfMonths`.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L6)
+[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:6](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L6)
 
 ___
 
@@ -30,7 +30,7 @@ The current month. Note that when `numberOfMonths > 1` represent the first month
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L4)
+[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:4](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L4)
 
 ___
 
@@ -42,7 +42,7 @@ The next month to display. `undefined` if no months left
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L10)
+[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L10)
 
 ___
 
@@ -54,7 +54,7 @@ The previous month to display. `undefined` if no months left
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L12)
+[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:12](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L12)
 
 ## Methods
 
@@ -76,4 +76,4 @@ Navigate to the specified month.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L8)
+[packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx:8](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Navigation/NavigationContextValue.tsx#L8)

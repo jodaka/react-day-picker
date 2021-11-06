@@ -22,4 +22,4 @@ value is Date
 
 #### Defined in
 
-[packages/react-day-picker/src/types/isDateType.ts:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/isDateType.ts#L4)
+[packages/react-day-picker/src/types/isDateType.ts:4](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/isDateType.ts#L4)

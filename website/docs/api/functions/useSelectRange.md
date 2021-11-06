@@ -16,4 +16,4 @@ Hook to access the [SelectRangeContext](../variables/SelectRangeContext).
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectRange/useSelectRange.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectRange/useSelectRange.ts#L7)
+[packages/react-day-picker/src/contexts/SelectRange/useSelectRange.ts:7](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectRange/useSelectRange.ts#L7)

@@ -24,4 +24,4 @@ Provides the values for the [SelectRangeProvider](SelectRangeProvider).
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectRange/SelectRangeProvider.tsx:17](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectRange/SelectRangeProvider.tsx#L17)
+[packages/react-day-picker/src/contexts/SelectRange/SelectRangeProvider.tsx:17](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectRange/SelectRangeProvider.tsx#L17)

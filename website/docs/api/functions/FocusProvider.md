@@ -23,4 +23,4 @@ The provider for the [FocusContext](../variables/FocusContext).
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Focus/FocusProvider.tsx:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Focus/FocusProvider.tsx#L11)
+[packages/react-day-picker/src/contexts/Focus/FocusProvider.tsx:11](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Focus/FocusProvider.tsx#L11)

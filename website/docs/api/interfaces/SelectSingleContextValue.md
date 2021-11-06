@@ -18,7 +18,7 @@ Event handler to attach to the day button to enable the single select.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts#L12)
+[packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts:12](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts#L12)
 
 ___
 
@@ -30,7 +30,7 @@ The modifiers for the corresponding selection.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts#L10)
+[packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts#L10)
 
 ___
 
@@ -42,4 +42,4 @@ The day that has been selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts#L8)
+[packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts:8](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectSingle/SelectSingleContextValue.ts#L8)

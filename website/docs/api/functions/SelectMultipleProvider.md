@@ -24,4 +24,4 @@ Provides the values for the [SelectMultipleContext](../variables/SelectMultipleC
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleProvider.tsx:15](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleProvider.tsx#L15)
+[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleProvider.tsx:15](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleProvider.tsx#L15)

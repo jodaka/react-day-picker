@@ -12,4 +12,4 @@ Represents the value of the [NavigationContext](../variables/NavigationContext).
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Focus/FocusContextValue.ts:2](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Focus/FocusContextValue.ts#L2)
+[packages/react-day-picker/src/contexts/Focus/FocusContextValue.ts:2](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Focus/FocusContextValue.ts#L2)

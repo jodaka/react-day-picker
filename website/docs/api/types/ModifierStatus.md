@@ -12,4 +12,4 @@ Represent the status of a modifiers when matched a day.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/ModifierStatus.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/ModifierStatus.ts#L6)
+[packages/react-day-picker/src/types/ModifierStatus.ts:6](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/ModifierStatus.ts#L6)

@@ -22,4 +22,4 @@ A component rendering the navigation buttons or the drop-downs.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Navigation/Navigation.tsx:9](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Navigation/Navigation.tsx#L9)
+[packages/react-day-picker/src/components/Navigation/Navigation.tsx:9](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Navigation/Navigation.tsx#L9)

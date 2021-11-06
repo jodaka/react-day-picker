@@ -12,4 +12,4 @@ Represent the modifiers that are changed by the range selection.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectRange/SelectRangeModifiers.tsx:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectRange/SelectRangeModifiers.tsx#L4)
+[packages/react-day-picker/src/contexts/SelectRange/SelectRangeModifiers.tsx:4](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectRange/SelectRangeModifiers.tsx#L4)

@@ -22,4 +22,4 @@ Provide the value for all the context providers.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/ContextProvider.tsx:18](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/ContextProvider.tsx#L18)
+[packages/react-day-picker/src/contexts/ContextProvider.tsx:18](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/ContextProvider.tsx#L18)

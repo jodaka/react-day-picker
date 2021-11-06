@@ -16,4 +16,4 @@ Hook to access the [SelectMultipleContext](../variables/SelectMultipleContext).
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectMultiple/useSelectMultiple.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectMultiple/useSelectMultiple.ts#L7)
+[packages/react-day-picker/src/contexts/SelectMultiple/useSelectMultiple.ts:7](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/SelectMultiple/useSelectMultiple.ts#L7)

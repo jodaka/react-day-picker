@@ -18,7 +18,7 @@ The default selected dates.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerMultiple.ts:9](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerMultiple.ts#L9)
+[packages/react-day-picker/src/types/DayPickerMultiple.ts:9](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerMultiple.ts#L9)
 
 ___
 
@@ -30,7 +30,7 @@ The maximum amount of days that can be selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerMultiple.ts:15](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerMultiple.ts#L15)
+[packages/react-day-picker/src/types/DayPickerMultiple.ts:15](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerMultiple.ts#L15)
 
 ___
 
@@ -42,7 +42,7 @@ The minimum amount of days that can be selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerMultiple.ts:13](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerMultiple.ts#L13)
+[packages/react-day-picker/src/types/DayPickerMultiple.ts:13](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerMultiple.ts#L13)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerMultiple.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerMultiple.ts#L7)
+[packages/react-day-picker/src/types/DayPickerMultiple.ts:7](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerMultiple.ts#L7)
 
 ___
 
@@ -64,4 +64,4 @@ Event fired when a days added or removed to the selection.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerMultiple.ts:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerMultiple.ts#L11)
+[packages/react-day-picker/src/types/DayPickerMultiple.ts:11](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerMultiple.ts#L11)

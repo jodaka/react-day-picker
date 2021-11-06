@@ -18,7 +18,7 @@ The default selected range.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerRange.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerRange.ts#L10)
+[packages/react-day-picker/src/types/DayPickerRange.ts:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerRange.ts#L10)
 
 ___
 
@@ -30,7 +30,7 @@ The maximum amount of days that can be selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerRange.ts:16](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerRange.ts#L16)
+[packages/react-day-picker/src/types/DayPickerRange.ts:16](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerRange.ts#L16)
 
 ___
 
@@ -42,7 +42,7 @@ The minimum amount of days that can be selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerRange.ts:14](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerRange.ts#L14)
+[packages/react-day-picker/src/types/DayPickerRange.ts:14](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerRange.ts#L14)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerRange.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerRange.ts#L8)
+[packages/react-day-picker/src/types/DayPickerRange.ts:8](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerRange.ts#L8)
 
 ___
 
@@ -64,4 +64,4 @@ Event fired when a range or a part of the range is selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerRange.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerRange.ts#L12)
+[packages/react-day-picker/src/types/DayPickerRange.ts:12](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/DayPickerRange.ts#L12)

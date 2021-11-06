@@ -18,7 +18,7 @@ The date representing the day.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/DayContent/DayContentProps.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/DayContent/DayContentProps.ts#L6)
+[packages/react-day-picker/src/components/DayContent/DayContentProps.ts:6](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/DayContent/DayContentProps.ts#L6)
 
 ___
 
@@ -30,7 +30,7 @@ The month where the day is displayed.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/DayContent/DayContentProps.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/DayContent/DayContentProps.ts#L8)
+[packages/react-day-picker/src/components/DayContent/DayContentProps.ts:8](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/DayContent/DayContentProps.ts#L8)
 
 ___
 
@@ -42,4 +42,4 @@ The modifier status for the date.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/DayContent/DayContentProps.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/DayContent/DayContentProps.ts#L10)
+[packages/react-day-picker/src/components/DayContent/DayContentProps.ts:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/DayContent/DayContentProps.ts#L10)

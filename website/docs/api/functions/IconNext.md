@@ -22,4 +22,4 @@ Render the "next month" button in the navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/IconNext/IconNext.tsx:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/IconNext/IconNext.tsx#L8)
+[packages/react-day-picker/src/components/IconNext/IconNext.tsx:8](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/IconNext/IconNext.tsx#L8)

@@ -14,4 +14,4 @@ Access this context from the [useFocus](../functions/useFocus) hook.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Focus/FocusContext.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Focus/FocusContext.ts#L10)
+[packages/react-day-picker/src/contexts/Focus/FocusContext.ts:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/contexts/Focus/FocusContext.ts#L10)

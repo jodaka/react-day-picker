@@ -16,7 +16,7 @@ The default selected day.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:34](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L34)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:34](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L34)
 
 ___
 
@@ -28,7 +28,7 @@ The format string for formatting the input field. See https://date-fns.org/docs/
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:16](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L16)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:16](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L16)
 
 ___
 
@@ -40,7 +40,7 @@ The earliest day to start the month navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:18](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L18)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:18](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L18)
 
 ___
 
@@ -52,7 +52,7 @@ The earliest month to start the month navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:22](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L22)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:22](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L22)
 
 ___
 
@@ -64,7 +64,7 @@ The earliest year to start the month navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:26](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L26)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:26](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L26)
 
 ___
 
@@ -84,7 +84,7 @@ guide](https://date-fns.org/docs/I18n).
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:14](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L14)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:14](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L14)
 
 ___
 
@@ -96,7 +96,7 @@ Make the selection required.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:32](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L32)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:32](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L32)
 
 ___
 
@@ -108,7 +108,7 @@ The latest day to end the month navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:20](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L20)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:20](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L20)
 
 ___
 
@@ -120,7 +120,7 @@ The latest month to end the month navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:24](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L24)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:24](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L24)
 
 ___
 
@@ -132,7 +132,7 @@ The latest year to end the month navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:28](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L28)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:28](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L28)
 
 ___
 
@@ -144,4 +144,4 @@ The date to use as "today".
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:30](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L30)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts:30](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/hooks/useInput/types/UseInputOptions.ts#L30)

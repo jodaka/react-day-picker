@@ -25,4 +25,4 @@ elements.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Labels.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Labels.ts#L10)
+[packages/react-day-picker/src/types/Labels.ts:10](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/types/Labels.ts#L10)

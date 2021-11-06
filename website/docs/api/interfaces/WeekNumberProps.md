@@ -18,7 +18,7 @@ The dates in the week.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx:13](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx#L13)
+[packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx:13](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx#L13)
 
 ___
 
@@ -30,4 +30,4 @@ The number of the week.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx#L11)
+[packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx:11](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/WeekNumber/WeekNumber.tsx#L11)

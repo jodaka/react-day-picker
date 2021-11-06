@@ -22,4 +22,4 @@ Render the table with the calendar.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Table/Table.tsx:19](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Table/Table.tsx#L19)
+[packages/react-day-picker/src/components/Table/Table.tsx:19](https://github.com/gpbl/react-day-picker/blob/0df406c0/packages/react-day-picker/src/components/Table/Table.tsx#L19)
