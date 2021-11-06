@@ -23,4 +23,4 @@ Render a dropdown to change the year. Take in account the `nav.fromDate` and
 
 #### Defined in
 
-[packages/react-day-picker/src/components/YearsDropdown/YearsDropdown.tsx:23](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/YearsDropdown/YearsDropdown.tsx#L23)
+[packages/react-day-picker/src/components/YearsDropdown/YearsDropdown.tsx:23](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/YearsDropdown/YearsDropdown.tsx#L23)

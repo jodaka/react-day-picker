@@ -16,7 +16,7 @@ Represent the props to attach to DayPicker component.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:6](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L6)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L6)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:7](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L7)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L7)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:8](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L8)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L8)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:5](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L5)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:5](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L5)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:9](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L9)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:9](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L9)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:10](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L10)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L10)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:11](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L11)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L11)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L12)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L12)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:13](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L13)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:13](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L13)
 
 ___
 
@@ -106,4 +106,4 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:14](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L14)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts:14](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputDayPickerProps.ts#L14)

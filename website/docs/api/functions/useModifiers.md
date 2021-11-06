@@ -22,4 +22,4 @@ Return the modifiers and its styles for the specified date.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useModifiers/useModifiers.ts:17](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useModifiers/useModifiers.ts#L17)
+[packages/react-day-picker/src/hooks/useModifiers/useModifiers.ts:17](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useModifiers/useModifiers.ts#L17)

@@ -12,4 +12,4 @@ Render a button HTML element applying the reset class name.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Button/Button.tsx:10](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Button/Button.tsx#L10)
+[packages/react-day-picker/src/components/Button/Button.tsx:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Button/Button.tsx#L10)

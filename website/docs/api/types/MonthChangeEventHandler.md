@@ -26,4 +26,4 @@ Represent the event handler when a month is changed in the calendar.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/MonthChangeEventHandler.ts:4](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/MonthChangeEventHandler.ts#L4)
+[packages/react-day-picker/src/types/MonthChangeEventHandler.ts:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/MonthChangeEventHandler.ts#L4)

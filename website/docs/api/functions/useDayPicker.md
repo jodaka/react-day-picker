@@ -19,4 +19,4 @@ To use this hook make sure to wrap the components with a one
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/DayPicker/useDayPicker.ts:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/DayPicker/useDayPicker.ts#L12)
+[packages/react-day-picker/src/contexts/DayPicker/useDayPicker.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/DayPicker/useDayPicker.ts#L12)

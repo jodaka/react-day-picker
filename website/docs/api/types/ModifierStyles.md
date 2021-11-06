@@ -12,4 +12,4 @@ The inline-style to apply to the day matching `modifier`.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/ModifierStyles.ts:4](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/ModifierStyles.ts#L4)
+[packages/react-day-picker/src/types/ModifierStyles.ts:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/ModifierStyles.ts#L4)

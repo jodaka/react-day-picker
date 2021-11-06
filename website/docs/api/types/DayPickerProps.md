@@ -12,4 +12,4 @@ The props for the [DayPicker](../functions/DayPicker) component.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerProps.ts:15](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DayPickerProps.ts#L15)
+[packages/react-day-picker/src/types/DayPickerProps.ts:15](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerProps.ts#L15)

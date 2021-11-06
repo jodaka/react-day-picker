@@ -12,4 +12,4 @@ Represent the modifiers that are used internally in DayPicker.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/InternalModifier.tsx:2](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/InternalModifier.tsx#L2)
+[packages/react-day-picker/src/types/InternalModifier.tsx:2](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/InternalModifier.tsx#L2)

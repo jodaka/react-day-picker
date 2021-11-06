@@ -29,7 +29,7 @@ The component for the caption element.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:17](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L17)
+[packages/react-day-picker/src/types/Components.ts:17](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L17)
 
 ___
 
@@ -51,7 +51,7 @@ The component for the caption element.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:19](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L19)
+[packages/react-day-picker/src/types/Components.ts:19](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L19)
 
 ___
 
@@ -73,7 +73,7 @@ The component for the day element. This is a button or a span.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:21](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L21)
+[packages/react-day-picker/src/types/Components.ts:21](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L21)
 
 ___
 
@@ -95,7 +95,7 @@ The component for the content of the day element.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:23](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L23)
+[packages/react-day-picker/src/types/Components.ts:23](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L23)
 
 ___
 
@@ -117,7 +117,7 @@ The component for the drop-down elements.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:25](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L25)
+[packages/react-day-picker/src/types/Components.ts:25](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L25)
 
 ___
 
@@ -133,7 +133,7 @@ The component for the table footer.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:27](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L27)
+[packages/react-day-picker/src/types/Components.ts:27](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L27)
 
 ___
 
@@ -149,7 +149,7 @@ The component for the table’s head.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:29](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L29)
+[packages/react-day-picker/src/types/Components.ts:29](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L29)
 
 ___
 
@@ -171,7 +171,7 @@ The component for the small icon in the drop-downs.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:31](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L31)
+[packages/react-day-picker/src/types/Components.ts:31](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L31)
 
 ___
 
@@ -193,7 +193,7 @@ The icon for the "next month" button in Navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:33](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L33)
+[packages/react-day-picker/src/types/Components.ts:33](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L33)
 
 ___
 
@@ -215,7 +215,7 @@ icon for the "previous month" button in the Navigation.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:35](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L35)
+[packages/react-day-picker/src/types/Components.ts:35](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L35)
 
 ___
 
@@ -237,7 +237,7 @@ The component for the table rows.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:37](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L37)
+[packages/react-day-picker/src/types/Components.ts:37](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L37)
 
 ___
 
@@ -259,4 +259,4 @@ The component for the week number in the table rows.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Components.ts:39](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Components.ts#L39)
+[packages/react-day-picker/src/types/Components.ts:39](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Components.ts#L39)

@@ -18,7 +18,7 @@ The default selected day.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerSingle.ts:9](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DayPickerSingle.ts#L9)
+[packages/react-day-picker/src/types/DayPickerSingle.ts:9](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerSingle.ts#L9)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerSingle.ts:7](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DayPickerSingle.ts#L7)
+[packages/react-day-picker/src/types/DayPickerSingle.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerSingle.ts#L7)
 
 ___
 
@@ -40,7 +40,7 @@ Event fired when a day is selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerSingle.ts:11](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DayPickerSingle.ts#L11)
+[packages/react-day-picker/src/types/DayPickerSingle.ts:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerSingle.ts#L11)
 
 ___
 
@@ -52,4 +52,4 @@ When set, user cannot unselect days.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayPickerSingle.ts:13](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DayPickerSingle.ts#L13)
+[packages/react-day-picker/src/types/DayPickerSingle.ts:13](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayPickerSingle.ts#L13)

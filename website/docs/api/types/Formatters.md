@@ -23,4 +23,4 @@ Represent a map of formatters used to render localized content.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/Formatters.ts:7](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/Formatters.ts#L7)
+[packages/react-day-picker/src/types/Formatters.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/Formatters.ts#L7)

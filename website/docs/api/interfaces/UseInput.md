@@ -18,7 +18,7 @@ The props to pass to a DayPicker component: `<DayPicker {...dayPickerProps} />`
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:7](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L7)
+[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:7](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L7)
 
 ___
 
@@ -30,7 +30,7 @@ The props to pass to an input field: `<input {...fieldProps} />`
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:9](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L9)
+[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:9](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L9)
 
 ## Methods
 
@@ -46,7 +46,7 @@ A function to reset to the initial state.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:11](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L11)
+[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L11)
 
 ___
 
@@ -68,4 +68,4 @@ A function to set the selected day.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:13](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L13)
+[packages/react-day-picker/src/hooks/useInput/types/UseInput.ts:13](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInput.ts#L13)

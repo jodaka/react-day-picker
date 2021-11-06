@@ -32,7 +32,7 @@ Event handler for the blur event.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:6](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L6)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L6)
 
 ___
 
@@ -58,7 +58,7 @@ Event handler for the change event.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:8](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L8)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L8)
 
 ___
 
@@ -84,7 +84,7 @@ Event handler for the focus event.
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:10](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L10)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L10)
 
 ___
 
@@ -96,4 +96,4 @@ The value of the input field
 
 #### Defined in
 
-[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L12)
+[packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/hooks/useInput/types/UseInputFieldProps.ts#L12)

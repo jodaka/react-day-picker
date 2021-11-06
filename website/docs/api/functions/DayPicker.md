@@ -104,4 +104,4 @@ import es from 'date-fns/locale/es';
 
 #### Defined in
 
-[packages/react-day-picker/src/DayPicker.tsx:93](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/DayPicker.tsx#L93)
+[packages/react-day-picker/src/DayPicker.tsx:93](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/DayPicker.tsx#L93)

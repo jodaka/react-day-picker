@@ -22,4 +22,4 @@ value is DateRange
 
 #### Defined in
 
-[packages/react-day-picker/src/types/isDateRange.ts:4](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/isDateRange.ts#L4)
+[packages/react-day-picker/src/types/isDateRange.ts:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/isDateRange.ts#L4)

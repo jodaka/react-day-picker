@@ -16,4 +16,4 @@ Render the Footer component (empty as default).
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Footer/Footer.tsx:6](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Footer/Footer.tsx#L6)
+[packages/react-day-picker/src/components/Footer/Footer.tsx:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Footer/Footer.tsx#L6)

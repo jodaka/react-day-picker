@@ -23,4 +23,4 @@ Provides the values for the [NavigationContext](../variables/NavigationContext).
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/Navigation/NavigationProvider.tsx:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/Navigation/NavigationProvider.tsx#L12)
+[packages/react-day-picker/src/contexts/Navigation/NavigationProvider.tsx:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/Navigation/NavigationProvider.tsx#L12)

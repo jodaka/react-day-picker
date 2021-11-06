@@ -18,7 +18,7 @@ Event handler to attach to the day button to enable the range select.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts#L12)
+[packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts#L12)
 
 ___
 
@@ -30,7 +30,7 @@ The modifiers for the corresponding selection.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts:10](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts#L10)
+[packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts#L10)
 
 ___
 
@@ -42,4 +42,4 @@ The range of days that has been selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts:8](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts#L8)
+[packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectRange/SelectRangeContextValue.ts#L8)

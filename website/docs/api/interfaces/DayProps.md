@@ -18,7 +18,7 @@ The date to render.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Day/DayProps.ts:6](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Day/DayProps.ts#L6)
+[packages/react-day-picker/src/components/Day/DayProps.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Day/DayProps.ts#L6)
 
 ___
 
@@ -30,4 +30,4 @@ The month where the date is displayed.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Day/DayProps.ts:4](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Day/DayProps.ts#L4)
+[packages/react-day-picker/src/components/Day/DayProps.ts:4](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Day/DayProps.ts#L4)

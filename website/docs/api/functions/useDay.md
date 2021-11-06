@@ -41,4 +41,4 @@ The source of [Day](Day) can be a good starting point.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Day/hooks/useDay.tsx:75](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Day/hooks/useDay.tsx#L75)
+[packages/react-day-picker/src/components/Day/hooks/useDay.tsx:75](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Day/hooks/useDay.tsx#L75)

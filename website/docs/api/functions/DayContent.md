@@ -22,4 +22,4 @@ Render the content of the day cell.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/DayContent/DayContent.tsx:10](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/DayContent/DayContent.tsx#L10)
+[packages/react-day-picker/src/components/DayContent/DayContent.tsx:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/DayContent/DayContent.tsx#L10)

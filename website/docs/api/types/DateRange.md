@@ -20,4 +20,4 @@ Differently from [DateInterval](DateInterval), the dates here are included.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DateRange.ts:5](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DateRange.ts#L5)
+[packages/react-day-picker/src/types/DateRange.ts:5](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DateRange.ts#L5)

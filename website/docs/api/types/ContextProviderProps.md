@@ -12,4 +12,4 @@ The props of the [ContextProvider](../functions/ContextProvider) provider.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/ContextProvider.tsx:13](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/ContextProvider.tsx#L13)
+[packages/react-day-picker/src/contexts/ContextProvider.tsx:13](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/ContextProvider.tsx#L13)

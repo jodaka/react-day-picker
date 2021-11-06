@@ -22,4 +22,4 @@ Render a row in the calendar, with the days and optionally the week number.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Row/Row.tsx:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Row/Row.tsx#L12)
+[packages/react-day-picker/src/components/Row/Row.tsx:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Row/Row.tsx#L12)

@@ -28,4 +28,4 @@ Represent the event handler when the week number is clicked.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/WeekNumberClickEventHandler.ts:2](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/WeekNumberClickEventHandler.ts#L2)
+[packages/react-day-picker/src/types/WeekNumberClickEventHandler.ts:2](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/WeekNumberClickEventHandler.ts#L2)

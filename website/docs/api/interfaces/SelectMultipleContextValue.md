@@ -18,7 +18,7 @@ Event handler to attach to the day button to enable the multiple select.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts:12](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts#L12)
+[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts:12](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts#L12)
 
 ___
 
@@ -30,7 +30,7 @@ The modifiers for the corresponding selection.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts:10](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts#L10)
+[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts:10](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts#L10)
 
 ___
 
@@ -42,4 +42,4 @@ The days that have been selected.
 
 #### Defined in
 
-[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts:8](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts#L8)
+[packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts:8](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/contexts/SelectMultiple/SelectMultipleContextValue.ts#L8)

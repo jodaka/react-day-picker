@@ -17,4 +17,4 @@ rendered depends by the `numberOfMonths` prop.
 
 #### Defined in
 
-[packages/react-day-picker/src/components/Root/Root.tsx:11](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/components/Root/Root.tsx#L11)
+[packages/react-day-picker/src/components/Root/Root.tsx:11](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/components/Root/Root.tsx#L11)

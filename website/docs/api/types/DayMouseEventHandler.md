@@ -28,4 +28,4 @@ Represent the event handler when a day gets a mouse event.
 
 #### Defined in
 
-[packages/react-day-picker/src/types/DayMouseEventHandler.ts:6](https://github.com/gpbl/react-day-picker/blob/6bc3b9d0/packages/react-day-picker/src/types/DayMouseEventHandler.ts#L6)
+[packages/react-day-picker/src/types/DayMouseEventHandler.ts:6](https://github.com/gpbl/react-day-picker/blob/b5db746c/packages/react-day-picker/src/types/DayMouseEventHandler.ts#L6)
