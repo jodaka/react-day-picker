@@ -31,7 +31,7 @@ export function CodeSandboxButton({
   const name = `DayPicker: ${fileName.replace('.tsx', '')} example`;
   return (
     <CodeSandboxer
-      examplePath={`website/docs/${fileName}`}
+      examplePath={`website/examples/${fileName}`}
       dependencies={dependencies}
       gitInfo={gitInfo}
       providedFiles={providedFiles}
