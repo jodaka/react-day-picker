@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import OriginalCodeBlock from '@theme-original/CodeBlock';
+import OriginalCodeBlock from '../OriginalCodeBlock';
 
 // Default implementation, that you can customize
 /**
@@ -32,41 +32,19 @@ export default function CodeBlock(props) {
   const src = require(`!!raw-loader!../../../examples/${fileName}`).default;
   const iframeSrc = `/render?component=${fileName}`;
 
-  function resizeIframe() {
-    const height = iframe.current.contentWindow.document.body.scrollHeight;
-    iframe.current.height = height.toString();
-  }
   return (
-    <div className="CodeBlock">
-      <OriginalCodeBlock {...props} className="language-tsx">
+    <div className="codeBlock">
+      <OriginalCodeBlock
+        {...props}
+        className="language-tsx"
+        codeSandboxFilename={fileName}
+      >
         {src.replace(`import React from 'react';\n`, '')}
       </OriginalCodeBlock>
+
       <details open>
-        <summary>
-          Output{' '}
-          <small className="CodeBlockTools">
-            <a
-              href="#"
-              onClick={(e) => {
-                e.preventDefault();
-                resizeIframe();
-              }}
-              target="_blank"
-            >
-              Resize ↓
-            </a>{' '}
-            |{' '}
-            <a href={iframeSrc} target="_blank">
-              New Window ↗
-            </a>
-          </small>
-        </summary>
-        <iframe
-          height="380"
-          ref={iframe}
-          className="CodeBlockIframe"
-          src={iframeSrc}
-        />
+        <summary>Output</summary>
+        <iframe ref={iframe} className="codeBlockIframe" src={iframeSrc} />
       </details>
     </div>
   );
