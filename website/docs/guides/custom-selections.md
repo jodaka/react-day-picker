@@ -1,7 +1,4 @@
----
-id: custom-selections
-title: Custom Selections
----
+# Custom Selections
 
 In the [Selecting Days tutorial](/basics/selecting-days). we have set different
 modes to change the selection behavior. Under the hood, DayPicker handles the

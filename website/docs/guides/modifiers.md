@@ -1,7 +1,4 @@
----
-id: modifiers
-title: Modifiers
----
+# Modifiers
 
 A **modifier** represents the state or the style of a day.
 

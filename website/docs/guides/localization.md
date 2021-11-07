@@ -1,7 +1,4 @@
----
-id: localization
-title: Localization
----
+# Localization
 
 ## Changing locale
 

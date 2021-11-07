@@ -1,8 +1,4 @@
----
-id: formatters
-title: Formatters
-hide_table_of_contents: true
----
+# Formatters
 
 Use the [formatters](/api/types/daypickerprops#formatters) to change the default format for the day, the weekday
 name, etc.

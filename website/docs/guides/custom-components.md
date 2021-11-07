@@ -1,7 +1,4 @@
----
-id: custom-components
-title: Custom Components
----
+# Custom Components
 
 Use the `components` prop to to swap the [internal
 components](/api/interfaces/components) used by DayPicker.

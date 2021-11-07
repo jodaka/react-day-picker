@@ -1,7 +1,4 @@
----
-id: input-fields
-title: Input Fields
----
+# Input Fields
 
 Some user interfaces displays a date picker working with an input field.
 DayPicker includes the [useInput hook](/api/functions/useinput), returning props
