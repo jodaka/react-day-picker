@@ -11,7 +11,6 @@
   --ifm-code-border-radius: 4px;
   --ifm-code-background: var(--ifm-color-emphasis-100);
   --menu-background: var(--ifm-color-emphasis-100);
-  --ifm-list-paragraph-margin: 0;
 }
 
 html[data-theme='dark'] {
@@ -22,13 +21,6 @@ html[data-theme='dark'] {
   --menu-background: #010101;
 }
 
-.pagination-nav {
-  border-top: 1px solid var(--ifm-color-emphasis-300);
-}
-.pagination-nav__link {
-  border: 0;
-}
-
 .menu {
   margin-right: 1em;
   background-color: var(--menu-background);
@@ -37,16 +29,6 @@ html[data-theme='dark'] {
 details summary {
   cursor: pointer;
   font-weight: bold;
-}
-
-details > div {
-  padding: 1em;
-  border-radius: var(--ifm-code-border-radius);
-  background-color: var(--ifm-color-emphasis-100);
-}
-
-.container {
-  margin: 0;
 }
 
 .docusaurus-highlight-code-line {
@@ -177,5 +159,5 @@ hr {
 }
 
 [class^='copyButton'].codesandboxbutton {
-  right: 80px;
+  right: 70px;
 }
