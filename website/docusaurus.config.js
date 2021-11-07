@@ -1,6 +1,4 @@
-const pkg = require('react-day-picker/package.json');
-const pkgPath = '../packages/react-day-picker';
-
+const typedocConfig = require('./docusaurus.typedoc');
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -15,18 +13,11 @@ const config = {
   projectName: 'react-day-picker',
   clientModules: [require.resolve('react-day-picker/style.css')],
   themeConfig: {
-    defaultMode: 'light',
-    disableSwitch: false,
-    respectPrefersColorScheme: true,
     image: 'images/favicon.png',
     navbar: require('./docusaurus.navbar.js'),
-    gtag: {
-      trackingID: 'UA-68185118-1'
-    },
-    prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme
-    }
+    editUrl: 'https://github.com/gpbl/react-day-picker/edit/master/website/',
+    gtag: { trackingID: 'UA-68185118-1' },
+    prism: { theme: lightCodeTheme, darkTheme: darkCodeTheme }
   },
   presets: [
     [
@@ -34,36 +25,13 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./docusaurus.sidebars.js'),
-          showLastUpdateAuthor: false,
-          showLastUpdateTime: false,
           routeBasePath: '/'
         },
-        // pages: false,
-        theme: {
-          customCss: require.resolve('./src/custom.css')
-        }
+        theme: { customCss: require.resolve('./src/custom.css') }
       }
     ]
   ],
-  plugins: [
-    [
-      'docusaurus-plugin-typedoc',
-      {
-        // Typedoc settings
-        entryPoints: [`${pkgPath}/src/index.ts`],
-        tsconfig: `${pkgPath}/tsconfig.json`,
-        allReflectionsHaveOwnDocument: true,
-        readme: 'none',
-        watch: process.env.TYPEDOC_WATCH,
-        out: './api',
-
-        // Markdown plugin settings
-        hideBreadcrumbs: true,
-        hideInPageTOC: true,
-        indexTitle: 'API Reference'
-      }
-    ]
-  ]
+  plugins: [['docusaurus-plugin-typedoc', typedocConfig]]
 };
 
 module.exports = config;
