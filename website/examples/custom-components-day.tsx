@@ -1,9 +1,8 @@
-import * as React from 'react';
-
-import { format } from 'date-fns';
-
+import React from 'react';
 import { DayContent, DayContentProps, DayPicker } from 'react-day-picker';
 import 'react-day-picker/style.css';
+
+import { format } from 'date-fns';
 
 function DateTime(props: DayContentProps) {
   const dateTime = format(props.date, 'yyyy-MM-dd');

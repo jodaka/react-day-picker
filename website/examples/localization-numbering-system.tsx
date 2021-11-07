@@ -1,14 +1,13 @@
-import * as React from 'react';
-
-import { format } from 'date-fns';
-import arabic from 'date-fns/locale/ar-SA';
-
+import React from 'react';
 import {
   DateFormatter,
   DayPicker,
   WeekNumberFormatter
 } from 'react-day-picker';
 import 'react-day-picker/style.css';
+
+import { format } from 'date-fns';
+import arabic from 'date-fns/locale/ar-SA';
 
 export function Example() {
   const nuLocale = 'ar-u-nu-arab';

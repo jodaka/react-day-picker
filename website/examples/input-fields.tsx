@@ -1,9 +1,8 @@
-import * as React from 'react';
-
-import { format } from 'date-fns';
-
+import React from 'react';
 import { DayPicker, useInput, UseInputOptions } from 'react-day-picker';
 import 'react-day-picker/style.css';
+
+import { format } from 'date-fns';
 
 export function Example() {
   // Props to pass to `useInput`

@@ -1,9 +1,8 @@
-import * as React from 'react';
-
-import { addDays } from 'date-fns';
-
+import React from 'react';
 import { DayPicker } from 'react-day-picker';
 import 'react-day-picker/style.css';
+
+import { addDays } from 'date-fns';
 
 export function Example() {
   const defaultSelected: Date[] = [

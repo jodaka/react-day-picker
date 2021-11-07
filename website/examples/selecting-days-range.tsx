@@ -1,9 +1,8 @@
-import * as React from 'react';
-
-import { addDays, format, isSameDay } from 'date-fns';
-
+import React from 'react';
 import { DateRange, DayPicker } from 'react-day-picker';
 import 'react-day-picker/style.css';
+
+import { addDays, format, isSameDay } from 'date-fns';
 
 export function Example() {
   const defaultSelected: DateRange = {
