@@ -4,7 +4,7 @@ const pkg = require('react-day-picker/package.json');
 // Note: type annotations allow type checking and IDEs autocompletion
 /** @type {import('@docusaurus/preset-classic').ThemeConfig["navbar"]} */
 const navbar = {
-  title: 'DayPicker',
+  title: 'React DayPicker',
   logo: {
     alt: 'DayPicker Logo',
     src: 'images/logo.png'

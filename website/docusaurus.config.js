@@ -13,6 +13,7 @@ const config = {
   favicon: 'images/favicon.ico',
   organizationName: 'gpbl',
   projectName: 'react-day-picker',
+  clientModules: [require.resolve('react-day-picker/style.css')],
   themeConfig: {
     defaultMode: 'light',
     disableSwitch: false,
