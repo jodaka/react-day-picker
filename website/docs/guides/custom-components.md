@@ -1,3 +1,7 @@
+---
+pagination_next: null
+---
+
 # Custom Components
 
 Use the `components` prop to to swap the [internal

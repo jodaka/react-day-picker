@@ -1,6 +1,8 @@
 ---
-id: license
 title: License
+hide_title: true
+pagination_next: null
+pagination_prev: null
 ---
 
 The MIT License (MIT)

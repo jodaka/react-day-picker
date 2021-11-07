@@ -1,5 +1,8 @@
 ---
+title: Changelog
 hide_title: true
+pagination_next: null
+pagination_prev: null
 ---
 
 import ChangeLog, {
