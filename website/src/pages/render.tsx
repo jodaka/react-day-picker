@@ -1,5 +1,6 @@
 import React from 'react';
 import { useLocation } from '@docusaurus/router';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 /**
  * Create a page at `/render` URL that renders the examples from the examples
@@ -20,19 +21,25 @@ import { useLocation } from '@docusaurus/router';
  * ```
  * */
 export default function Render(): JSX.Element {
-  const params = new URLSearchParams(useLocation().search);
-  const component = params.get('component');
-  try {
-    require(`../../examples/${component}`).Example;
-  } catch (e) {
-    console.error('Error requiring %s', `../../examples/${component}`, e);
-    return <pre>{e.message}</pre>;
-  }
-  const Component = require(`../../examples/${component}`).Example;
-
   return (
-    <div className="Render">
-      <Component />
-    </div>
+    <BrowserOnly>
+      {() => {
+        const params = new URLSearchParams(useLocation().search);
+        const component = params.get('component');
+        try {
+          require(`../../examples/${component}`).Example;
+        } catch (e) {
+          console.error('Error requiring %s', `../../examples/${component}`, e);
+          return <pre>{e.message}</pre>;
+        }
+        const Component = require(`../../examples/${component}`).Example;
+
+        return (
+          <div className="Render">
+            <Component />
+          </div>
+        );
+      }}
+    </BrowserOnly>
   );
 }
