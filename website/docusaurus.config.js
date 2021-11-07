@@ -10,7 +10,7 @@ const config = {
   tagline: 'Customizable date picker component for React',
   url: 'https://react-day-picker.js.org',
   baseUrl: '/',
-  favicon: 'images/favicon.ico',
+  favicon: 'images/favicon.png',
   organizationName: 'gpbl',
   projectName: 'react-day-picker',
   clientModules: [require.resolve('react-day-picker/style.css')],
