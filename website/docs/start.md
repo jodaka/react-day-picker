@@ -1,19 +1,24 @@
 # Getting Started
 
-To start using DayPicker in your project add `react-day-picker` to your dependencies:
+1. Add `react-day-picker` to your dependencies:
 
 ```bash
-yarn add react-day-picker@next     # when using yarn
-npm install react-day-picker@next  # when using npm
+npm install react-day-picker@next
 ```
 
-### Example
+2. Import DayPicker and include the DayPicker CSS in your App / Component:
+
+```
+import { DayPicker } from 'react-day-picker';
+```
+
+## Example
 
 ```include
 start.tsx
 ```
 
-### Next
+## Next
 
 Continue with the tutorial and see [how to navigate months](/basics/navigation).
 
