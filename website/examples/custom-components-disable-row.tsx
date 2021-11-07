@@ -1,6 +1,5 @@
 import React from 'react';
 import { DayPicker, Row, RowProps } from 'react-day-picker';
-import 'react-day-picker/style.css';
 
 import { differenceInCalendarDays } from 'date-fns';
 

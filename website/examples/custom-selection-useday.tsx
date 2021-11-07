@@ -1,6 +1,5 @@
 import React from 'react';
 import { Button, DayPicker, DayProps, useDay } from 'react-day-picker';
-import 'react-day-picker/style.css';
 
 /**
  * A custom `Day` component that will enable a range selection only when the

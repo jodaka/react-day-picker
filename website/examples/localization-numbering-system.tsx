@@ -4,7 +4,6 @@ import {
   DayPicker,
   WeekNumberFormatter
 } from 'react-day-picker';
-import 'react-day-picker/style.css';
 
 import { format } from 'date-fns';
 import arabic from 'date-fns/locale/ar-SA';

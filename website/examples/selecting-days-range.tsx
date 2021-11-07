@@ -1,6 +1,5 @@
 import React from 'react';
 import { DateRange, DayPicker } from 'react-day-picker';
-import 'react-day-picker/style.css';
 
 import { addDays, format, isSameDay } from 'date-fns';
 

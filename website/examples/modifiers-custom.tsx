@@ -1,6 +1,5 @@
 import React from 'react';
 import { DayPicker, SelectSingleEventHandler } from 'react-day-picker';
-import 'react-day-picker/style.css';
 
 export function Example() {
   const bookedDays = [

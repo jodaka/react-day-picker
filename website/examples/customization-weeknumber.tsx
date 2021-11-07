@@ -1,6 +1,5 @@
 import React from 'react';
 import { DayPicker, WeekNumberClickEventHandler } from 'react-day-picker';
-import 'react-day-picker/style.css';
 
 export function Example() {
   const [weekNumber, setWeekNumber] = React.useState<number>();
