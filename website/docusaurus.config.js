@@ -39,7 +39,7 @@ const config = {
         },
         // pages: false,
         theme: {
-          customCss: require.resolve('./config/custom.css')
+          customCss: require.resolve('./src/custom.css')
         }
       }
     ]

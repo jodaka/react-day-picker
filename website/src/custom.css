@@ -201,3 +201,7 @@ hr {
 .markdown li > p {
   margin: 0;
 }
+
+.Render * {
+  all: revert;
+}
